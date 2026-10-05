@@ -1,0 +1,7 @@
+# Ignorisanje fajla sa osjetljivim podacima
+config.json
+
+# Ignorisanje screenshota
+*.png
+*.jpg
+screenshots/
